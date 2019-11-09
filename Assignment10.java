@@ -1,12 +1,3 @@
-// Assignment #: 10 
-//         Name: Aqib Chowdhury
-//    StudentID: 1214879900
-//  Lab Lecture: Mon/Wed 4:35-5:50
-//  Description: The Assignment 10 class displays a menu of choices to a user
-//               and performs the chosen task. It will keep asking a user to
-//               enter the next choice until the choice of 'Q' (Quit) is
-//               entered.
-
 import java.io.*;
 
 public class Assignment10
