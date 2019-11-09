@@ -1,12 +1,3 @@
-// Assignment #: 10 
-//         Name: Aqib Chowdhury
-//    StudentID: 1214879900
-//  Lab Lecture: Mon/Wed 4:35-5:50
-//  Description: The ListIterator interface allows access of a position in a linked list.
-// 				 This interface contains a subset of the methods of the
-//  			 standard java.util.ListIterator interface. The methods for
-//  			 backward traversal are not included.
-
 public interface ListIterator
 {
    //Move Moves the iterator past the next element.
