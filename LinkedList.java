@@ -1,11 +1,3 @@
-// Assignment #: 10 
-//         Name: Aqib Chowdhury
-//    StudentID: 1214879900
-//  Lab Lecture: Mon/Wed 4:35-5:50
-//  Description: A linked list is a sequence of nodes with efficient
-// 				 element insertion and removal.
-// 				 This class contains a subset of the methods of the
-//				 standard java.util.LinkedList class.
 import java.util.NoSuchElementException;
 
 import javax.swing.text.html.parser.Element;
@@ -75,11 +67,6 @@ public class LinkedList
       return new LinkedListIterator();
    }
 
-   /*********************************************************
-   Add your methods here
-   *********************************************************/
-   
-   //Method to print output in string format
    public String toString() {
 	   String str = "{ ";
 	   if(first == null) {
